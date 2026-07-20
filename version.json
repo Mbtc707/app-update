@@ -1,7 +1,6 @@
 {
   "versionCode": 2,
-  "versionName": "1.1.0",
-  "gdriveUrl": "https://drive.google.com/uc?export=download&id=1kry1-neXFJD7wpDjBsgeMhvpgvy_kmwA&confirm=no_antivirus",
-  "mediafireUrl": "https://www.mediafire.com/file/xxxxxx/app.apk"
+  "driveUrl": "https://drive.google.com/your-file-link",
+  "mediafireUrl": "https://www.mediafire.com/your-file-link",
   "changeLog": "- Bug အချို့ကို ပြင်ဆင်ထားပါသည်။\n- Performance ကို မြှင့်တင်ထားပါသည်။"
 }
